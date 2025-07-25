@@ -10,7 +10,7 @@ No emails. No WhatsApp. Just real-time clipboard magic. ✨
 ![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite)
 ![Socket.IO](https://img.shields.io/badge/Realtime-Socket.IO-black?style=for-the-badge&logo=socketdotio)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=your_github_username.clipsync)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vinit105.clipsync)
 
 <br />
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="480" alt="Clipboard Sync Animation" />
